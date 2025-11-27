@@ -1,0 +1,425 @@
+scraped_page,title,detail_url,price(USD),building_area(m²),land_area(m²),bedrooms,bathrooms,location,image_count,image_filenames,price_per_sqm,property_type
+1,Developers Dream,https://www.property.co.zw/for-sale/houses-bls228184,190000.0,180.0,1352.0,3.0,1.0,Belvedere,1,df03d95d0b_0.webp,124.02088772845951,house
+1,Finish It To Your Taste....,https://www.property.co.zw/for-sale/houses-rws224233,180000.0,1000.0,1736.0,6.0,3.0,Harare,1,9255ebae71_0.webp,65.78947368421052,house
+1,Ideal for investment.,https://www.property.co.zw/for-sale/houses-cac214954,225000.0,180.0,4000.0,3.0,3.0,Marlborough,1,0aa8829830_0.webp,53.82775119617225,house
+1,4 Bedroomed house For Sale In Greendale,https://www.property.co.zw/for-sale/houses-gat227415,330000.0,3711.0,3711.0,4.0,2.0,Greendale,1,8b160495da_0.webp,44.462409054163295,house
+1,Peaceful Oasis For Sale,https://www.property.co.zw/for-sale/houses-chas226613,880000.0,433.0,3220.0,4.0,2.0,Harare,1,4ea4ffbb30_0.webp,240.89789214344376,house
+1,Waterfalls Zindoga Commercial Property For Sale,https://www.property.co.zw/for-sale/shops-rws226883,300000.0,240.0,500.0,3.0,2.0,Waterfalls,1,35ade3b1af_0.webp,405.4054054054054,commercial
+1,Arcturus 7.9 hectare plot for sale,https://www.property.co.zw/for-sale/agricultural-land-farms-rws222499,450000.0,79.0,790000.0,3.0,2.0,Harare,1,7f0c8caec8_0.webp,0.5695632968348735,land
+1,Lets go farming,https://www.property.co.zw/for-sale/agricultural-land-farms-rws214494,600000.0,600.0,10417.0,2.0,1.0,Harare,1,43f71e2670_0.webp,,land
+1,Investment opportunity,https://www.property.co.zw/for-sale/houses-rws228313,35000.0,180.0,240.0,4.0,2.0,Harare,1,2dddad92e3_0.webp,83.33333333333333,house
+1,Dont Miss Out On This Fantastic Opportunity,https://www.property.co.zw/for-sale/houses-rws226112,265000.0,500.0,4600.0,4.0,2.0,Hatfield,1,8c8d84eb11_0.webp,51.96078431372549,house
+2,Avondale West $340000,https://www.property.co.zw/for-sale/houses-lcre224929,340000.0,300.0,1200.0,3.0,2.0,Avondale,1,4e8053f948_0.webp,226.66666666666663,house
+2,Negotiations makes it yours,https://www.property.co.zw/for-sale/houses-rws228125,100000.0,200.0,450.0,3.0,2.0,Harare,1,2f9804da59_0.webp,153.84615384615384,house
+2,Versatile Property with Visibility from Seke Road,https://www.property.co.zw/for-sale/houses-sef227858,160000.0,150.0,2000.0,3.0,2.0,Hatfield,1,e669c47b57_0.webp,74.4186046511628,house
+2,Macheke Abattoir For Sale,https://www.property.co.zw/for-sale/shops-rws189264,1000000.0,1000.0,7000.0,3.0,2.0,Harare,1,70b695bad7_0.webp,125.0,commercial
+3,Exquisite 7-Bedroom Mansion with Borehole in Borrowdale Brooke,https://www.property.co.zw/for-sale/houses-knp215538,800000.0,500.0,1660.0,7.0,3.0,Borrowdale,1,2d26e68033_0.webp,370.3703703703704,house
+3,Carrick Creagh mansion for sale,https://www.property.co.zw/for-sale/houses-thre227300,650000.0,700.0,3600.0,5.0,3.0,Harare,1,68d0f7de4c_0.webp,151.1627906976744,house
+3,Superb Opportunity in Falcon Estate,https://www.property.co.zw/for-sale/houses-rws224348,130000.0,450.0,450.0,4.0,2.0,Harare,1,7c7f481336_0.webp,144.44444444444446,house
+3,Residential house for sale,https://www.property.co.zw/for-sale/houses-smy216178,850000.0,300.0,4200.0,5.0,3.0,Borrowdale,1,c356fd7b5e_0.webp,188.88888888888889,house
+3,Arlington Estate House For Sale,https://www.property.co.zw/for-sale/houses-syr228293,425000.0,2012.0,2012.0,6.0,3.0,Harare,1,3943033b4f_0.webp,105.61630218687873,house
+3,One Hectare with Development Permit and Borehole,https://www.property.co.zw/for-sale/residential-land-stands-pgp223801,700000.0,600.0,10163.0,3.0,2.0,Greystone Park,1,42d38134be_0.webp,,land
+3,Residential stand for sale,https://www.property.co.zw/for-sale/residential-land-stands-smy213760,120000.0,600.0,2000.0,2.0,1.0,Belvedere,1,f99fc7830f_0.webp,,land
+3,Absolute Bargain,https://www.property.co.zw/for-sale/agricultural-land-farms-hmsl223481,60000.0,600.0,80940.0,3.0,2.0,Harare,1,0552256194_0.webp,,land
+4,House For Sale,https://www.property.co.zw/for-sale/houses-prv227538,29000.0,500.0,4685.0,5.0,3.0,Harare,1,374d8682d5_0.webp,5.593056894889103,house
+4,Southlea Park House,https://www.property.co.zw/for-sale/houses-chre228435,29000.0,120.0,200.0,5.0,3.0,Harare,1,06bbd7e7f1_0.webp,90.625,house
+4,Eastlea Along Samora Machel Tranquil Home For Sale,https://www.property.co.zw/for-sale/houses-rws226447,690000.0,800.0,2336.0,4.0,2.0,Eastlea,1,ca10792fc2_0.webp,220.02551020408163,house
+4,Superb Opportunity,https://www.property.co.zw/for-sale/houses-rws219575,300000.0,1800.0,1800.0,4.0,2.0,Harare,1,8dd86bd361_0.webp,83.33333333333333,house
+4,A premium investment opportunity A complex consists of 17 units.,https://www.property.co.zw/for-sale/flats-apartments-xds225464,110000.0,200.0,500.0,3.0,2.0,Hillside,1,c69fb0f99f_0.webp,,apartment
+4,A Gem In The Heart Of Chisipite,https://www.property.co.zw/for-sale/houses-chas228026,800000.0,200.0,4047.0,5.0,3.0,Harare,1,38d5e43a3d_0.webp,188.36825994819876,house
+4,Reduced to Go- located along Suffolk Road,https://www.property.co.zw/for-sale/houses-mac225039,220000.0,260.0,793.0,3.0,2.0,Avondale,1,4b0ca61647_0.webp,208.92687559354223,house
+4,Finish To Taste Incomplete Property In Kutandara,https://www.property.co.zw/for-sale/houses-pgp224747,105000.0,172.0,470.0,3.0,2.0,Harare,1,51ba06edb4_0.webp,163.55140186915887,house
+4,A property in a Prime Location,https://www.property.co.zw/for-sale/houses-pgp225568,210000.0,350.0,2974.0,4.0,2.0,Bulawayo,1,ebf6facdcf_0.webp,,house
+4,Your Dream Home Awaits In Mabvazuva,https://www.property.co.zw/for-sale/houses-plzp227759,85000.0,200.0,400.0,4.0,2.0,Unknown,1,2e3162e701_0.webp,141.66666666666666,house
+5,Agri Residential Commercial Property For Sale,https://www.property.co.zw/for-sale/agricultural-land-farms-rrt225500,1250000.0,600.0,157828.0,4.0,3.0,Harare,1,d4a62f6d23_0.webp,,land
+5,Modern Family Home In Greendale North,https://www.property.co.zw/for-sale/houses-clrp226138,380000.0,350.0,2700.0,4.0,3.0,Greendale,1,d72ee4aeeb_0.webp,,house
+5,Shawasha Hills,https://www.property.co.zw/for-sale/land-jspp226530,370000.0,600.0,14000.0,3.0,2.0,Harare,1,cf7b57b760_0.webp,,land
+5,"Views, Vibes Value. Burnside",https://www.property.co.zw/for-sale/houses-pgp228568,130000.0,4126.0,4040.0,3.0,2.0,Bulawayo,1,f241ec2448_0.webp,15.91966691158462,house
+5,"Prime Commercial Property for Sale  Simon Mazorodze Road Frontage, Harare",https://www.property.co.zw/for-sale/commercial-property-plzp220282,795000.0,400.0,3636.0,3.0,2.0,Harare,1,b8adb58b30_0.webp,196.97720515361743,commercial
+5,Residential Stand For Sale in Pomona,https://www.property.co.zw/for-sale/residential-land-stands-gat227158,75000.0,600.0,2000.0,3.0,2.0,Harare,1,7f0866c38c_0.webp,,land
+6,A Delightful and Comfortable Family Home On Show,https://www.property.co.zw/for-sale/houses-clrp228246,650000.0,300.0,4403.0,3.0,2.0,Harare,1,706d23f5ef_0.webp,138.20965341271528,house
+6,Mufakose Commercial Property,https://www.property.co.zw/for-sale/shops-pgp197350,155000.0,389.0,389.0,3.0,2.0,Mufakose,1,d0f027439d_0.webp,199.2287917737789,commercial
+6,"Expansive 17,000m² Plot Land in Glen Forest, Harare North",https://www.property.co.zw/for-sale/agricultural-land-farms-jspp215189,170000.0,600.0,17000.0,3.0,2.0,Harare,1,616af0d2ab_0.webp,,land
+6,Great investment opportunity,https://www.property.co.zw/for-sale/residential-land-stands-pnt213146,480000.0,600.0,10000.0,6.0,3.0,Harare,1,0172c96b38_0.webp,,land
+6,"Spacious 4-Bedroom Family Home in Serene Belvedere, Harare",https://www.property.co.zw/for-sale/houses-jspp225991,310000.0,310.0,1910.0,4.0,2.0,Belvedere,1,fd7e4a19eb_0.webp,139.63963963963965,house
+6,Neat and cozy,https://www.property.co.zw/for-sale/houses-rws227218,55000.0,180.0,200.0,3.0,2.0,Harare,1,ceac0d1e64_0.webp,144.73684210526315,house
+6,"1300 m² Land for Sale in Norton, Mashonaland West",https://www.property.co.zw/for-sale/land-gat223366,25000.0,600.0,1300.0,3.0,2.0,Unknown,1,aa3f2cef4b_0.webp,,land
+6,Great Investment Opportunity,https://www.property.co.zw/for-sale/houses-rws226110,250000.0,600.0,2000.0,2.0,1.0,Harare,1,f3703307cd_0.webp,96.15384615384616,house
+7,Exceptional Home On The Hill With Stunning Views,https://www.property.co.zw/for-sale/houses-prl221871,635000.0,250.0,5133.0,2.0,2.0,Harare,1,47e4f25fef_0.webp,117.96396061675644,house
+7,2 Bedroom Flat in Upper Avenues,https://www.property.co.zw/for-sale/flats-apartments-mtx227685,120000.0,250.0,500.0,2.0,1.0,Harare,1,8d83eedfae_0.webp,,apartment
+7,Avondale Townhouse In Good Complex with Mature Garden,https://www.property.co.zw/for-sale/townhouses-prl219565,245000.0,600.0,7771.0,3.0,2.0,Avondale,1,df14adba76_0.webp,29.267709951021384,house
+7,Borrowdale Pomona 3 Beds Clusters for Sale,https://www.property.co.zw/for-sale/garden-flats-rws225182,230000.0,125.0,275.0,3.0,2.0,Borrowdale,1,d13b3a9722_0.webp,575.0,apartment
+7,Chitungwiza,https://www.property.co.zw/for-sale/houses-lcre222171,20000.0,200.0,200.0,4.0,2.0,Unknown,1,e19da6397b_0.webp,50.0,house
+7,Finish To Your Own Taste The 4 Bedroomed House In Haydon Park,https://www.property.co.zw/for-sale/townhouses-smy227127,140000.0,850.0,1291.0,4.0,2.0,Harare,1,3c92f4f8e3_0.webp,65.39000467071462,house
+7,Stylish 2 Bedroom Garden Apartment in Prime Kensington,https://www.property.co.zw/for-sale/garden-flats-sef226082,170000.0,150.0,500.0,2.0,1.0,Harare,1,127deea2d6_0.webp,261.53846153846155,apartment
+7,Spacious 3-Bedroom Townhouse Complex with Borehole in Greendale,https://www.property.co.zw/for-sale/townhouses-sef205422,221000.0,178.0,8000.0,3.0,2.0,Greendale,1,cd2cb532e2_0.webp,27.02372218146246,house
+7,Serene 4-Bedroom Garden Flat in Chisipite with Borehole,https://www.property.co.zw/for-sale/garden-flats-bls220355,425000.0,300.0,500.0,4.0,2.0,Harare,1,921d5ce2ef_0.webp,531.25,apartment
+7,Prime Residential Stand for Sale,https://www.property.co.zw/for-sale/residential-land-stands-pgp226810,280000.0,600.0,4095.0,3.0,2.0,Harare,1,c8c6143ba0_0.webp,,land
+7,Development or Commercial Opportunity,https://www.property.co.zw/for-sale/offices-pgp185668,580000.0,1000.0,8244.0,3.0,2.0,Marlborough,1,b9fbd41786_0.webp,62.74340112505409,commercial
+7,"1,6 Hectare Agro-Residential Plot for Sale in Glen Forest",https://www.property.co.zw/for-sale/land-sef227395,200000.0,16.0,16000.0,3.0,2.0,Harare,1,458675a6a4_0.webp,12.487512487512488,land
+8,"Spacious 4-Bedroom Home with a Pool in Glen Lorne, Harare North",https://www.property.co.zw/for-sale/houses-sef224118,850000.0,620.0,11000.0,4.0,2.0,Harare,1,56f4749b52_0.webp,73.14974182444062,house
+8,Riddle Ridge house for sale,https://www.property.co.zw/for-sale/houses-rws225335,70000.0,250.0,400.0,4.0,2.0,Harare,1,b201cba3dd_0.webp,107.6923076923077,house
+8,Houses for sale,https://www.property.co.zw/for-sale/houses-csr164326,75000.0,280.0,670.0,5.0,2.0,Harare,1,443251e729_0.webp,78.94736842105263,house
+8,All You Would Ever Want and More,https://www.property.co.zw/for-sale/houses-prl212609,895000.0,644.0,4058.0,3.0,3.0,Mount Pleasant,1,14be36c5da_0.webp,190.34453424074863,house
+8,Make your dreams come true,https://www.property.co.zw/for-sale/houses-rws210803,210000.0,500.0,4002.0,5.0,3.0,Waterfalls,1,d727300d55_0.webp,46.645935139937805,house
+8,Complete Unit shops for sale,https://www.property.co.zw/for-sale/shops-brre206329,74400.0,500.0,4000.0,3.0,2.0,Harare,1,2550f87b39_0.webp,,commercial
+8,Jetway Industrial Park is an exciting New Mixed Use Development.,https://www.property.co.zw/for-sale/commercial-land-ccp206131,170000.0,600.0,3000.0,3.0,2.0,Harare,1,469240ab14_0.webp,,land
+8,Smart Move,https://www.property.co.zw/for-sale/commercial-property-rws226561,1000000.0,500.0,7047.0,3.0,2.0,Harare,1,78cc978db1_0.webp,,commercial
+8,Lifetime Opportunity,https://www.property.co.zw/for-sale/houses-rws204704,375000.0,500.0,5000.0,4.0,2.0,Greendale,1,d65b64e723_0.webp,68.18181818181819,house
+9,"Charming 4-Bedroom House for Sale in Kuwadzana, Harare",https://www.property.co.zw/for-sale/houses-sef205049,50000.0,160.0,312.0,4.0,1.0,Kuwadzana,1,5f78ea174d_0.webp,105.9322033898305,house
+9,Greyston Park Stand For Sale,https://www.property.co.zw/for-sale/residential-land-stands-tagp209638,156000.0,600.0,3900.0,3.0,2.0,Greystone Park,1,86fd04aabc_0.webp,,land
+9,Beautiful Complex,https://www.property.co.zw/for-sale/garden-flats-knp225145,320000.0,621.0,500.0,5.0,3.0,Harare,1,b1002fe80d_0.webp,,apartment
+9,Well treed and serene land,https://www.property.co.zw/for-sale/residential-land-stands-pgp223986,1100000.0,600.0,140000.0,3.0,2.0,Marlborough,1,a40e5f4978_0.webp,,land
+9,Prime 450 m² Stands in Arcadia Your Future Awaits,https://www.property.co.zw/for-sale/residential-land-stands-t20227708,35000.0,600.0,450.0,3.0,2.0,Harare,1,02217b3cca_0.webp,,land
+9,Stylishly-Polished home,https://www.property.co.zw/for-sale/townhouses-rws225932,295000.0,400.0,500.0,3.0,2.0,Greendale,1,b98143001e_0.webp,327.77777777777777,house
+9,Prime 2500 m² Stand for Sale in Exclusive Borrowdale,https://www.property.co.zw/for-sale/residential-land-stands-t20227724,125000.0,600.0,2500.0,3.0,2.0,Borrowdale,1,f122c7adb8_0.webp,,land
+9,"9500m² Residential Land with a 4 bed house For Sale in Hogerty Hill, Borrowdale",https://www.property.co.zw/for-sale/residential-land-stands-gat213258,550000.0,9500.0,9500.0,4.0,2.0,Borrowdale,1,60dc95d941_0.webp,28.94736842105263,house
+9,Newly Built Shop,https://www.property.co.zw/for-sale/shops-rws227739,19000.0,150.0,1989.0,3.0,2.0,Harare,1,6e2c57fef5_0.webp,,commercial
+10,Luxury Cluster Unit,https://www.property.co.zw/for-sale/townhouses-pgp224946,230000.0,180.0,300.0,3.0,2.0,Borrowdale,1,568b1b93d8_0.webp,479.1666666666667,house
+10,Ready To Move-In,https://www.property.co.zw/for-sale/garden-flats-hmsl228242,280000.0,230.0,500.0,3.0,2.0,Avondale,1,f1bb84848c_0.webp,383.5616438356165,apartment
+10,Greendale North House for Sale Facing Eastern Road Harare Drive,https://www.property.co.zw/for-sale/houses-pgp224662,350000.0,250.0,4047.0,5.0,3.0,Greendale,1,ff894e606b_0.webp,81.45217593670003,house
+10,"3 Bedroom House for Sale in Kumalo, Bulawayo East",https://www.property.co.zw/for-sale/houses-gat205495,220000.0,255.0,2344.0,3.0,2.0,Bulawayo,1,f633878d5b_0.webp,84.64794151596767,house
+10,Gweru Nehosho 4-bedroom house for sale,https://www.property.co.zw/for-sale/houses-bls220863,36000.0,150.0,220.0,4.0,2.0,Unknown,1,a676ed25d0_0.webp,97.29729729729728,house
+10,3 Bedroomed House for Sale in Westgate,https://www.property.co.zw/for-sale/houses-sef226489,210000.0,450.0,820.0,3.0,2.0,Harare,1,e17d7b8189_0.webp,165.35433070866142,house
+10,"4-Bedroom Home with Extras  Great Potential, Secure Title.",https://www.property.co.zw/for-sale/houses-leg224427,250000.0,300.0,2100.0,4.0,2.0,Mount Pleasant,1,bec5ae64b3_0.webp,104.16666666666669,house
+10,A House In a Prime Location In Chinhoyi,https://www.property.co.zw/for-sale/houses-sef175880,115000.0,250.0,2800.0,3.0,2.0,Unknown,1,d092967990_0.webp,37.704918032786885,house
+10,REDUCED Double-Storey Home in a Prime Location within Borrowdale Brooke Golf Estate,https://www.property.co.zw/for-sale/houses-knp225105,1300000.0,500.0,1916.0,4.0,2.0,Borrowdale,1,7acc8f6199_0.webp,538.0794701986755,house
+10,Haydon park Close to the New Parliament,https://www.property.co.zw/for-sale/houses-glre228710,150000.0,900.0,1291.0,4.0,2.0,Harare,1,df11d0c995_0.webp,68.46188954815153,house
+10,Commercial Serviced Stands For Sale In Sunway City,https://www.property.co.zw/for-sale/commercial-land-gat203661,65000.0,600.0,10200.0,3.0,2.0,Harare,1,22e0c5f097_0.webp,,land
+10,Scenic Escape On Gletwyn Dam,https://www.property.co.zw/for-sale/houses-pgp217118,990000.0,1000.0,8094.0,4.0,2.0,Harare,1,4375946591_0.webp,108.86298658456126,house
+10,morden contemporry,https://www.property.co.zw/for-sale/garden-flats-mac189578,260000.0,150.0,500.0,3.0,2.0,Harare,1,43b45b6e83_0.webp,400.0,apartment
+11,"Industrial Property for Sale Factory, Warehouse, Offices and more",https://www.property.co.zw/for-sale/commercial-property-pgp215934,850000.0,3000.0,10417.0,4.0,2.0,Harare,1,7f37ecf05d_0.webp,63.35246329283744,house
+11,Live in Grandeur in the Folyjon Estate Reduced for a Quick Sale,https://www.property.co.zw/for-sale/houses-sef165278,640000.0,460.0,4300.0,6.0,3.0,Harare,1,7d753d3ab9_0.webp,134.45378151260505,house
+11,House for sale in Mount Pleasant Heights,https://www.property.co.zw/for-sale/houses-glre220865,320000.0,600.0,1800.0,3.0,2.0,Mount Pleasant,1,bdf33d8744_0.webp,133.33333333333334,house
+11,Brookview - $350k,https://www.property.co.zw/for-sale/houses-mac205615,350000.0,620.0,4000.0,7.0,3.0,Harare,1,a93810af0a_0.webp,75.75757575757575,house
+11,Stand For Sale In Scenic Charlotte Brooke,https://www.property.co.zw/for-sale/residential-land-stands-chas226061,18000.0,600.0,1148.0,3.0,2.0,Harare,1,bf387ac19e_0.webp,,land
+11,Glen Lorne stands for sale,https://www.property.co.zw/for-sale/residential-land-stands-rpt200790,40000.0,600.0,500.0,3.0,2.0,Harare,1,407deb2832_0.webp,,land
+11,Neat as a pin,https://www.property.co.zw/for-sale/houses-rws223309,300000.0,600.0,4000.0,7.0,3.0,Bulawayo,1,92b69868f4_0.webp,65.21739130434783,house
+11,Historic Hotel Centrally Located,https://www.property.co.zw/for-sale/commercial-property-pgp181594,1199000.0,1388.0,1388.0,3.0,2.0,Bulawayo,1,d76949d04a_0.webp,431.9164265129683,commercial
+12,"IndustrialCommercial Stand for Sale  Sandton, Harare West",https://www.property.co.zw/for-sale/commercial-land-mtx226807,210000.0,800.0,4243.0,5.0,2.0,Harare,1,bcd89f3e02_0.webp,41.64187983343248,land
+12,Prime Location - Grand Home With Two Cottages,https://www.property.co.zw/for-sale/houses-clrp225397,560000.0,800.0,4647.0,5.0,2.0,Harare,1,476ff6735f_0.webp,102.80888562511474,house
+12,Newly Built Cluster In Exclusive Gated Community,https://www.property.co.zw/for-sale/townhouses-pgp227211,185000.0,100.0,365.0,3.0,2.0,Harare,1,5b06b0b964_0.webp,397.8494623655914,house
+12,Commercial Property for Sale in Greendale,https://www.property.co.zw/for-sale/offices-gat192688,330000.0,721.0,4280.0,3.0,2.0,Greendale,1,ce708885c5_0.webp,65.9868026394721,commercial
+12,Stand for sale in Crowhill,https://www.property.co.zw/for-sale/residential-land-stands-jspp224656,15000.0,600.0,1000.0,3.0,2.0,Harare,1,5b52880463_0.webp,,land
+12,Pomona City Stands for Sale,https://www.property.co.zw/for-sale/residential-land-stands-rws228483,175000.0,600.0,1965.0,3.0,2.0,Harare,1,0cce998e10_0.webp,,land
+12,Stunning 4-Bedroom Townhouse Complex with Borehole in Marlborough,https://www.property.co.zw/for-sale/townhouses-sef220411,200000.0,197.0,350.0,4.0,2.0,Marlborough,1,2a7eb2d91c_0.webp,365.6307129798903,house
+12,Rydale Ridge Property for Sale,https://www.property.co.zw/for-sale/houses-gat228276,70000.0,437.0,437.0,4.0,2.0,Harare,1,432ddb1c98_0.webp,80.09153318077803,house
+12,Solid Spacious House,https://www.property.co.zw/for-sale/houses-chas228324,290000.0,3844.0,3844.0,4.0,2.0,Harare,1,3e56f483f2_0.webp,37.72112382934444,house
+12,A house for sale,https://www.property.co.zw/for-sale/houses-jspp223091,150000.0,250.0,1700.0,4.0,2.0,Harare,1,7600da6a84_0.webp,76.92307692307692,house
+12,Colne Valley 8 Bedrooms 5 Bathrooms with Borehole On Show,https://www.property.co.zw/for-sale/houses-prl214991,660000.0,854.0,4277.0,8.0,5.0,Harare,1,b55e269bda_0.webp,128.62989670629506,house
+13,Fixer Upper Ideal For Commercial Use,https://www.property.co.zw/for-sale/commercial-property-pgp227883,360000.0,200.0,2000.0,3.0,2.0,Milton Park,1,75bd6e7a9a_0.webp,163.63636363636363,commercial
+13,"Charming 3-Bedroom Townhouse with Borehole in Waterfalls, Harare",https://www.property.co.zw/for-sale/townhouses-sef211154,100000.0,150.0,300.0,3.0,2.0,Waterfalls,1,670b6de7ee_0.webp,222.22222222222223,house
+13,Value for money,https://www.property.co.zw/for-sale/commercial-property-rws226693,1200000.0,500.0,41000.0,3.0,2.0,Bulawayo,1,6aa5888e9c_0.webp,,commercial
+13,Residential stand for sale,https://www.property.co.zw/for-sale/residential-land-stands-smy203174,14250.0,600.0,475.0,3.0,2.0,Unknown,1,3a549332c8_0.webp,,land
+13,Expansive 2213m² Residential Land in Mount Pleasant Heights,https://www.property.co.zw/for-sale/residential-land-stands-bls223389,125000.0,600.0,2213.0,3.0,2.0,Mount Pleasant,1,f59eb8a4c9_0.webp,,land
+13,Superb Opportunity,https://www.property.co.zw/for-sale/houses-rws223397,95000.0,450.0,450.0,1.0,1.0,Harare,1,60970e34d6_0.webp,105.55555555555556,house
+13,Norton Nharira house for sale,https://www.property.co.zw/for-sale/houses-rws228232,125000.0,450.0,4419.0,5.0,3.0,Bulawayo,1,c7622cfc10_0.webp,25.67262271513658,house
+13,Commercial land for sale,https://www.property.co.zw/for-sale/residential-land-stands-smy222071,530000.0,14.0,14399.0,4.0,2.0,Harare,1,af7ebd03c4_0.webp,36.77235828765698,land
+13,"Charming 3-Bed Flat Cluster with Borehole in Greendale, Harare",https://www.property.co.zw/for-sale/flats-apartments-bls221865,215000.0,120.0,500.0,3.0,2.0,Greendale,1,fe953e86b8_0.webp,,apartment
+13,Family home in Glen Lorne with views and trees,https://www.property.co.zw/for-sale/houses-knp222993,550000.0,400.0,7033.0,4.0,2.0,Harare,1,bb022f4f49_0.webp,73.99434952240011,house
+13,Prime commercialIndustrial stand for Sale,https://www.property.co.zw/for-sale/commercial-land-rws226008,1200000.0,12.0,12000.0,3.0,2.0,Harare,1,15c9171e55_0.webp,99.9000999000999,land
+14,5-Bedroom House For Sale In Carrick Creagh Estate,https://www.property.co.zw/for-sale/houses-gat227198,650000.0,2000.0,2000.0,5.0,3.0,Harare,1,84d5c8ea3a_0.webp,162.5,house
+14,"Thriving 2.23 Hectare Farm with Borehole in Norton, Zimbabwe",https://www.property.co.zw/for-sale/agricultural-land-farms-sef221104,160000.0,600.0,22300.0,3.0,2.0,Unknown,1,f7d6694670_0.webp,,land
+14,"2145 m² Stand in Knowe with title deeds, Norton ",https://www.property.co.zw/for-sale/residential-land-stands-sef221846,30000.0,600.0,2145.0,3.0,2.0,Unknown,1,329755953d_0.webp,,land
+14,Your New Address,https://www.property.co.zw/for-sale/houses-pgp225967,175000.0,322.0,1856.0,3.0,2.0,Bulawayo,1,d1f4351241_0.webp,80.34894398530763,house
+14,Great Investment Opportunity,https://www.property.co.zw/for-sale/land-rws227252,85000.0,600.0,2033.0,3.0,2.0,Harare,1,5e04827ca8_0.webp,,land
+15,"Boulders Estate,Ruwa  Residential Grandeur",https://www.property.co.zw/for-sale/residential-land-stands-pgp204355,62510.0,90.0,2113.0,3.0,2.0,Borrowdale,1,3d6d3c3144_0.webp,28.37494325919201,land
+15,Ruwa Springvale Stand for Sale,https://www.property.co.zw/for-sale/residential-land-stands-rws225889,45000.0,600.0,1360.0,3.0,2.0,Harare,1,1f6ef50732_0.webp,,land
+15,Prime Victoria Falls Apartment For Sale,https://www.property.co.zw/for-sale/flats-apartments-gat226667,185000.0,146.0,350.0,2.0,2.0,Unknown,1,2a39b5a1b5_0.webp,372.983870967742,apartment
+15,Kwekwe Msasa Commercial Property For Sale,https://www.property.co.zw/for-sale/shops-rws227960,550000.0,800.0,1100.0,3.0,2.0,Msasa,1,bba3597adb_0.webp,289.4736842105263,commercial
+15,Prestigious Borrowdale Home And Lifestyle,https://www.property.co.zw/for-sale/houses-pgp216274,1190000.0,2000.0,4001.0,6.0,3.0,Borrowdale,1,f42791a027_0.webp,198.30028328611897,house
+15,One of Harares Most Prestigious Complexes,https://www.property.co.zw/for-sale/townhouses-vepr226661,549000.0,339.0,4000.0,4.0,2.0,Harare,1,6eae06b62b_0.webp,126.52684950449412,house
+15,Prime Retail Shopping Centre In Mabelreign,https://www.property.co.zw/for-sale/shops-chas223434,1300000.0,1373.0,1989.0,3.0,2.0,Harare,1,60b87f3a30_0.webp,,commercial
+15,Hatfield Investment Property on 5 Acres,https://www.property.co.zw/for-sale/houses-pgp218611,650000.0,350.0,20000.0,12.0,3.0,Hatfield,1,bf4a5dea52_0.webp,,house
+15,"3-Bedroom Apartment for Sale in Bluffhill, Harare West",https://www.property.co.zw/for-sale/garden-flats-mtx217896,160000.0,400.0,500.0,3.0,3.0,Harare,1,626defb0e2_0.webp,177.77777777777777,apartment
+16,"Borrowdale, Philadelphia stunning 3-Bedroom Home for Sale",https://www.property.co.zw/for-sale/houses-sef228062,390000.0,400.0,4800.0,3.0,2.0,Harare,1,ceae2c633b_0.webp,75.0,house
+16,300square metre stands Hatcliffe,https://www.property.co.zw/for-sale/residential-land-stands-bnjr221436,21000.0,600.0,300.0,3.0,2.0,Harare,1,92c387e866_0.webp,,land
+16,Chinhoi Alaska Farm,https://www.property.co.zw/for-sale/agricultural-land-farms-chre228424,900000.0,77.0,10720000.0,3.0,2.0,Unknown,1,03bbcf09e1_0.webp,0.083954620848339,land
+16,Coronation Flats For Sale.,https://www.property.co.zw/for-sale/garden-flats-knp213852,220000.0,150.0,500.0,3.0,2.0,Greendale,1,b5c84ebb28_0.webp,,apartment
+16,Stands for Sale,https://www.property.co.zw/for-sale/residential-land-stands-xds225526,110000.0,600.0,1070.0,3.0,2.0,Harare,1,f767728327_0.webp,,land
+16,Neat Townhouse In The Heart Of CBD,https://www.property.co.zw/for-sale/commercial-property-pgp218989,220000.0,694.0,694.0,4.0,2.0,Bulawayo,1,362fbbb300_0.webp,158.5014409221902,house
+16,A Rare Golden Opportunity,https://www.property.co.zw/for-sale/houses-rws227935,1400000.0,500.0,8094.0,4.0,2.0,Harare,1,73cab22fe7_0.webp,162.90435187340006,house
+16,Brookeridge Estate Land For Sale,https://www.property.co.zw/for-sale/land-rws203438,590000.0,600.0,12000.0,3.0,2.0,Harare,1,d03f42f17f_0.webp,,land
+16,3-Bed House For Sale In Arlington,https://www.property.co.zw/for-sale/houses-gat228662,175000.0,500.0,500.0,3.0,2.0,Harare,1,3d54f3400f_0.webp,175.0,house
+16,Starter Home in Damofalls Phase 1,https://www.property.co.zw/for-sale/houses-blmp209948,65000.0,180.0,301.0,3.0,2.0,Unknown,1,d73917e535_0.webp,135.13513513513513,house
+16,"Elegant  Spacious Dream Home in Borrowdale, Also suitable for Offices",https://www.property.co.zw/for-sale/houses-sef211363,900000.0,1300.0,4386.0,5.0,5.0,Borrowdale,1,3293131c7e_0.webp,158.28350334154064,house
+17,Prime Commercial Land in Arlington 5012 m² with Seke Road Frontage,https://www.property.co.zw/for-sale/commercial-land-dwn221018,451000.0,600.0,5012.0,3.0,2.0,Harare,1,d465546101_0.webp,,land
+17,"Residential Stands for sale in Bulawayo, Eloana Brooke",https://www.property.co.zw/for-sale/residential-land-stands-vei116238,180000.0,800.0,6000.0,3.0,2.0,Bulawayo,1,0d25f3e004_0.webp,26.47058823529412,land
+17,Grand Family Residence with Cottage on 4047sqm,https://www.property.co.zw/for-sale/houses-leg223477,420000.0,4047.0,600.0,5.0,3.0,Mount Pleasant,1,08f8f9855f_0.webp,90.38089089735313,house
+17,Neat Double Storey House on Borrowdale Brooke Drive near Blue Roof,https://www.property.co.zw/for-sale/houses-oas212395,395000.0,400.0,2548.0,2.0,3.0,Borrowdale,1,ebff5b6c05_0.webp,133.98914518317503,house
+17,Living Amongst The Msasas With Beautiful Views,https://www.property.co.zw/for-sale/land-pgp188165,380000.0,600.0,10886.0,3.0,2.0,Msasa,1,6a30f47299_0.webp,,land
+17,Commerical Property For Sale in Kelvin North,https://www.property.co.zw/for-sale/commercial-property-pgp217420,190000.0,1600.0,1600.0,3.0,2.0,Bulawayo,1,c40a0dc7ac_0.webp,59.375,commercial
+17,4-Bedroom Home in Houghton Park For Sale,https://www.property.co.zw/for-sale/houses-gat219756,105000.0,690.0,690.0,4.0,2.0,Harare,1,e9b884750a_0.webp,76.08695652173913,house
+17,Prime 16 sqm Retail Space for Sale on Second Floor,https://www.property.co.zw/for-sale/shops-sef224016,42000.0,16.0,520.0,3.0,2.0,Harare,1,c2cdbbf91f_0.webp,78.35820895522389,commercial
+17,Prime 10ha Agro-Residential Plot For Sale In Ruwa,https://www.property.co.zw/for-sale/agricultural-land-farms-sef217995,350000.0,600.0,100000.0,3.0,2.0,Harare,1,89c085004c_0.webp,,land
+17,Manresa $60 000,https://www.property.co.zw/for-sale/residential-land-stands-lcre218727,60000.0,2058.0,2058.0,3.0,2.0,Harare,1,ab2a003f18_0.webp,14.57725947521866,land
+17,Escape To The Country,https://www.property.co.zw/for-sale/residential-land-stands-pgp194144,171150.0,600.0,16300.0,3.0,2.0,Harare,1,3374ecc031_0.webp,,land
+18,"Modern, Secure And Great Investment",https://www.property.co.zw/for-sale/townhouses-clrp226080,235000.0,168.0,499.0,3.0,2.0,Greendale,1,7e430d0de8_0.webp,352.32383808095955,house
+18,Partialy Built House for Sale,https://www.property.co.zw/for-sale/houses-rws225552,90000.0,400.0,1000.0,4.0,2.0,Harare,1,ce3d9e601d_0.webp,64.28571428571429,house
+18,Looking for a depot for long distance haulage or offices,https://www.property.co.zw/for-sale/warehouses-jpc208023,490000.0,3800.0,3800.0,4.0,2.0,Unknown,1,2459508a05_0.webp,64.47368421052632,house
+18,Prime 300 m² Stand for Sale in Nyabira - Your Dream Home Awaits,https://www.property.co.zw/for-sale/residential-land-stands-cac226867,17000.0,350.0,300.0,4.0,2.0,Unknown,1,3bd3719554_0.webp,,house
+18,Beautifully Fitted 4 Bedroomed Family Home,https://www.property.co.zw/for-sale/houses-knp216866,580000.0,434.0,4047.0,4.0,3.0,Mount Pleasant,1,de46801b63_0.webp,129.43539388529345,house
+18,Extremely Beautiful,https://www.property.co.zw/for-sale/houses-hvn220365,145000.0,200.0,400.0,4.0,2.0,Unknown,1,5c55031ebd_0.webp,241.66666666666663,house
+18,Great Starter Home for Sale,https://www.property.co.zw/for-sale/houses-rws225551,90000.0,500.0,1300.0,4.0,2.0,Harare,1,b683ddb50d_0.webp,50.0,house
+19,Kambanji stand for sale -160k,https://www.property.co.zw/for-sale/residential-land-stands-mac218757,160000.0,600.0,4000.0,3.0,2.0,Harare,1,e60575c89c_0.webp,,land
+19,Mvuma Orangia,https://www.property.co.zw/for-sale/agricultural-land-farms-pld206383,70000.0,600.0,150000.0,3.0,2.0,Unknown,1,a2d949c919_0.webp,,land
+19,Commercial industrial stand for sale,https://www.property.co.zw/for-sale/commercial-land-gat228742,100000.0,600.0,2300.0,3.0,2.0,Harare,1,4a066189b4_0.webp,,land
+19,New on the market,https://www.property.co.zw/for-sale/houses-rws207709,85000.0,180.0,375.0,3.0,2.0,Harare,1,b323261c1c_0.webp,153.15315315315314,house
+19,Prime land for sale in Gletwin Park,https://www.property.co.zw/for-sale/residential-land-stands-rws227690,173000.0,600.0,3445.0,3.0,2.0,Harare,1,9e16743440_0.webp,,land
+19,A Big Residential Stand,https://www.property.co.zw/for-sale/residential-land-stands-rws225531,185000.0,6000.0,6000.0,3.0,2.0,Harare,1,b93820faa9_0.webp,15.416666666666666,land
+19,Value for money,https://www.property.co.zw/for-sale/commercial-property-rws226564,700000.0,500.0,12000.0,3.0,2.0,Harare,1,aff29879a8_0.webp,,commercial
+19,"Prime 2000m² Residential Land in Mt Pleasant Heights, Phase 1, Harare",https://www.property.co.zw/for-sale/residential-land-stands-cac215559,92000.0,600.0,2000.0,3.0,2.0,Mt Pleasant,1,719e4850a7_0.webp,,land
+19,Price Reduction - Make An Offer -Ready For Development,https://www.property.co.zw/for-sale/agricultural-land-farms-apc177498,650000.0,600.0,65964.0,3.0,2.0,Msasa,1,2d6fe54a02_0.webp,,land
+20,Architecturally Designed Double Storey Home in Carrick Creagh Estate,https://www.property.co.zw/for-sale/houses-pgp226417,650000.0,902.0,2000.0,5.0,3.0,Harare,1,984e2c3319_0.webp,223.98345968297727,house
+20,PHILADELPHIA - $300k,https://www.property.co.zw/for-sale/land-mac206691,300000.0,600.0,6000.0,3.0,2.0,Harare,1,3899813f29_0.webp,,land
+20,"Boulders Estate,Ruwa  Residential Grandeur",https://www.property.co.zw/for-sale/land-pgp209628,62510.0,23.0,2113.0,3.0,2.0,Unknown,1,96fd22aca1_0.webp,29.26498127340824,land
+20,Modern Luxury 4-Bedroom Home for Sale in Pomona,https://www.property.co.zw/for-sale/houses-leg225364,590000.0,350.0,1395.0,4.0,2.0,Harare,1,c93b97ed60_0.webp,338.10888252149,house
+20,Investment Opportunity in Greendale,https://www.property.co.zw/for-sale/houses-knp222930,390000.0,380.0,6170.0,2.0,1.0,Greendale,1,23ee447de6_0.webp,59.54198473282442,house
+20,A Tranquil Haven with Extensive Amenities and Garden Oasis,https://www.property.co.zw/for-sale/houses-red224502,310000.0,434.0,4097.0,4.0,2.0,Bulawayo,1,ee7cb7aa51_0.webp,68.41756786581328,house
+20,Luxury Family Home with Pool in Suburban Mount Pleasant,https://www.property.co.zw/for-sale/houses-rws214833,570000.0,450.0,4860.0,4.0,2.0,Mount Pleasant,1,b0b3fd57e1_0.webp,107.34463276836158,house
+20,Agro Plot Lodge Tranquil Haven In Nyanga,https://www.property.co.zw/for-sale/agricultural-land-farms-sef227301,650000.0,600.0,330000.0,2.0,1.0,Unknown,1,6061e40644_0.webp,,land
+20,Spacious Family Home,https://www.property.co.zw/for-sale/houses-pgp227082,125000.0,350.0,1626.0,3.0,2.0,Bulawayo,1,89448ed183_0.webp,,house
+21,The Grange,https://www.property.co.zw/for-sale/houses-pgp226328,350000.0,500.0,2280.0,4.0,4.0,Marlborough,1,9fdb97c25d_0.webp,125.89928057553956,house
+21,Fresh Prestigious Residential Stands  Discounts for full payment - Minimal Terms ,https://www.property.co.zw/for-sale/residential-land-stands-prv8598,62500.0,600.0,1250.0,3.0,2.0,Mt Pleasant,1,78612c1a38_0.webp,,land
+21,Exclusive 4-Bed Townhouse with Borehole in Carrick Creagh,https://www.property.co.zw/for-sale/townhouses-mac213166,250000.0,44.0,600.0,4.0,2.0,Harare,1,1fd84a1b18_0.webp,388.1987577639752,house
+21,Your ideal property,https://www.property.co.zw/for-sale/houses-rws227273,100000.0,450.0,962.0,3.0,2.0,Harare,1,cab3b90741_0.webp,70.8215297450425,house
+21,Great Investment Opportunity,https://www.property.co.zw/for-sale/warehouses-rws226871,450000.0,4000.0,5000.0,4.0,2.0,Harare,1,de17aa7599_0.webp,50.0,house
+21,Apartment Model 4,https://www.property.co.zw/for-sale/flats-apartments-mbe167817,66000.0,105.0,105.0,2.0,1.0,Harare,1,f04c9341be_0.webp,314.2857142857143,apartment
+21,Spacious 3 Bedroom Property in Chisipite,https://www.property.co.zw/for-sale/houses-pgp210333,480000.0,200.0,1000.0,3.0,2.0,Harare,1,7ff428ef94_0.webp,400.0,house
+21,Emganwini Valley Medium Residential Stands for Sale,https://www.property.co.zw/for-sale/residential-land-stands-vei177673,18000.0,600.0,600.0,3.0,2.0,Bulawayo,1,63d2ee8e43_0.webp,,land
+21,Carrick CREAGH Stand for Sale,https://www.property.co.zw/for-sale/residential-land-stands-kha176594,140000.0,600.0,2000.0,3.0,2.0,Harare,1,ec8af1a33f_0.webp,,land
+21,Executive Townhouse in Borrowdale Brooke Along Crowhill Road,https://www.property.co.zw/for-sale/townhouses-pgp197537,750000.0,850.0,1660.0,7.0,3.0,Borrowdale,1,3df7b9b28b_0.webp,298.804780876494,house
+21,Investment Opportunity,https://www.property.co.zw/for-sale/commercial-land-hmsl219068,1000000.0,200.0,200000.0,3.0,2.0,Harare,1,18129f932a_0.webp,4.995004995004995,land
+21,A Rare Find 2-in-1 Apartment in Marlborough,https://www.property.co.zw/for-sale/flats-apartments-hlx226960,220000.0,270.0,350.0,6.0,3.0,Marlborough,1,5957f8e8de_0.webp,354.83870967741933,apartment
+22,"Borrowdales Finest- Neat, Solid and Modern On Show",https://www.property.co.zw/for-sale/houses-mac228493,470000.0,440.0,2200.0,2.0,2.0,Bulawayo,1,7dc51deff1_0.webp,178.03030303030303,house
+22,Polished  Sophisticated,https://www.property.co.zw/for-sale/townhouses-jpc227522,149000.0,33.0,812.0,3.0,2.0,Bulawayo,1,cad45c8afd_0.webp,176.33136094674558,house
+22,Greystone Park  Double-Storey Home on 1 Acre,https://www.property.co.zw/for-sale/houses-leg227880,680000.0,800.0,4047.0,7.0,3.0,Greystone Park,1,bc9b639d04_0.webp,140.29296472044564,house
+22,"Prime 12,000 m² Arable Farm Land in Selous - Ideal Investment Opportunity",https://www.property.co.zw/for-sale/agricultural-land-farms-rws225506,75000.0,600.0,12000.0,3.0,2.0,Harare,1,34709043ce_0.webp,,land
+22,Highland,https://www.property.co.zw/for-sale/townhouses-oas227384,350000.0,350.0,500.0,3.0,2.0,Highlands,1,7864b332d1_0.webp,411.7647058823529,house
+22,Unrivalled Views And Location On Carrick Creagh,https://www.property.co.zw/for-sale/townhouses-rws224376,420000.0,600.0,3942.0,6.0,3.0,Harare,1,19f1de28d7_0.webp,92.47027741083224,house
+22,Industrial Property Located in Kelvin West,https://www.property.co.zw/for-sale/commercial-property-pgp219555,135000.0,500.0,2800.0,3.0,2.0,Bulawayo,1,90891aca5e_0.webp,,commercial
+22,Great Investment Potential,https://www.property.co.zw/for-sale/land-mac220874,290000.0,600.0,7200.0,3.0,2.0,Borrowdale,1,b5a32be58e_0.webp,,land
+22,4 Bedroomed House for Sale in Zimre Park,https://www.property.co.zw/for-sale/houses-plzp226865,110000.0,300.0,540.0,4.0,2.0,Harare,1,ae07d23bf4_0.webp,130.95238095238096,house
+23,Prime land with sewer connection - suitable for development of flats by special consent,https://www.property.co.zw/for-sale/residential-land-stands-oas221371,220000.0,5051.0,5051.0,2.0,2.0,Harare,1,eedbe38cb7_0.webp,21.777865769154623,apartment
+23,Magnificent Modern Home,https://www.property.co.zw/for-sale/houses-pgp206920,650000.0,4400.0,4400.0,10.0,3.0,Harare,1,5ff8fdeb5f_0.webp,73.86363636363636,house
+23,"3 Bed, 2 Bath Townhouse Complex in Pomona, Harare",https://www.property.co.zw/for-sale/townhouses-gat205919,230000.0,168.0,278.0,3.0,2.0,Harare,1,ea428a298e_0.webp,515.6950672645739,house
+23,"Zimre Park Gem ,Versatile Double-Storey Home with Cottage  Staff Quarters.",https://www.property.co.zw/for-sale/houses-leg222873,150000.0,1000.0,1000.0,5.0,3.0,Harare,1,3023ea951a_0.webp,75.0,house
+23,Prime property in Newlands for Commercial,https://www.property.co.zw/for-sale/commercial-property-pgp215273,1250000.0,600.0,4063.0,8.0,3.0,Newlands,1,8f9d4c69ec_0.webp,268.067767531632,land
+23,Hoggerty Hill Stand,https://www.property.co.zw/for-sale/residential-land-stands-tmr227877,110000.0,600.0,2000.0,3.0,2.0,Harare,1,a8009262c1_0.webp,,land
+23,Prime Commercial Property for Sale in Bindura,https://www.property.co.zw/for-sale/commercial-property-gat216678,550000.0,500.0,500.0,3.0,2.0,Unknown,1,06e4bad451_0.webp,,commercial
+23,Neat modern Flat,https://www.property.co.zw/for-sale/flats-apartments-pnt225973,65000.0,150.0,100.0,2.0,1.0,Harare,1,ce8404da78_0.webp,,apartment
+24,Strathaven  Off Plan Duplex Cluster Homes,https://www.property.co.zw/for-sale/flats-apartments-fpc228691,165000.0,150.0,1884.0,3.0,2.0,Harare,1,8543b010dc_0.webp,,house
+24,4.4 Hectares Agro Land 60km from Harare,https://www.property.co.zw/for-sale/agricultural-land-farms-sef207513,150000.0,600.0,44000.0,3.0,2.0,Harare,1,0c011945b5_0.webp,,land
+24,"3-Bed Townhouse in Greendale North, Harare, with Boreholevacant",https://www.property.co.zw/for-sale/townhouses-pgp187857,250000.0,210.0,500.0,3.0,2.0,Greendale,1,b27e41e932_0.webp,352.11267605633805,house
+24,Unlock The Potential Of This Multi-Use Property,https://www.property.co.zw/for-sale/houses-plzp226301,305000.0,380.0,5040.0,4.0,2.0,Hillside,1,9f0bd1e091_0.webp,56.27306273062731,house
+24,Bluffhill,https://www.property.co.zw/for-sale/commercial-property-rws214640,450000.0,3000.0,3300.0,3.0,2.0,Harare,1,517b7841ee_0.webp,71.42857142857143,commercial
+24,2058sqm Stand For Sale In Manresa,https://www.property.co.zw/for-sale/residential-land-stands-sef224646,60000.0,600.0,2058.0,3.0,2.0,Harare,1,4ac714397e_0.webp,,land
+25,Prime Residential Stand in Gletwin Park - 4250 m² of Potential,https://www.property.co.zw/for-sale/residential-land-stands-rws225443,145000.0,4250.0,4250.0,3.0,2.0,Harare,1,2599c36088_0.webp,17.058823529411764,land
+25,Harare North Stand with Title Deed,https://www.property.co.zw/for-sale/residential-land-stands-rrt228261,320000.0,600.0,4000.0,3.0,2.0,Harare,1,db1c63f71f_0.webp,,land
+25,Prime Investment Opportunity in Helensvale,https://www.property.co.zw/for-sale/houses-gat224992,1400000.0,2000.0,12000.0,6.0,3.0,Harare,1,d4f8107a5d_0.webp,100.0,house
+25,Upmarket 3 Bed Townhouse For Sale In Greendale,https://www.property.co.zw/for-sale/townhouses-prl213041,320000.0,500.0,32500.0,3.0,2.0,Greendale,1,6e52333ba1_0.webp,9.696969696969695,house
+25,Westgate house for sale,https://www.property.co.zw/for-sale/houses-thre225460,165000.0,550.0,4047.0,5.0,3.0,Harare,1,bc0a201fde_0.webp,35.892973678485966,house
+25,Cluster House for Sale in Greendale,https://www.property.co.zw/for-sale/townhouses-rws225148,300000.0,200.0,400.0,4.0,2.0,Greendale,1,34e187162e_0.webp,500.0,house
+26,A spacious 4bedroomed family home for sale in Greendale,https://www.property.co.zw/for-sale/houses-prv227311,350000.0,120.0,4300.0,5.0,2.0,Greendale,1,bb64058f36_0.webp,79.18552036199095,house
+26,Crowhill Views near Dam,https://www.property.co.zw/for-sale/residential-land-stands-mrbe225177,20000.0,600.0,1000.0,3.0,2.0,Harare,1,cb6f518d6f_0.webp,,land
+26,Famona House for sale,https://www.property.co.zw/for-sale/houses-pgp225777,125000.0,1821.0,1821.0,3.0,2.0,Bulawayo,1,7faa737a33_0.webp,34.321801208127404,house
+26,"Prime 1070 m² Land for Sale in Nyeredzi Ridge, Harare North",https://www.property.co.zw/for-sale/land-gat220318,110000.0,600.0,1070.0,3.0,2.0,Harare,1,ffced4676d_0.webp,,land
+26,Beautiful Oasis In Eastlea,https://www.property.co.zw/for-sale/houses-plzp228438,350000.0,400.0,1555.0,5.0,3.0,Eastlea,1,f9de4d863d_0.webp,179.02813299232736,house
+27,New Hogerty Hill Property,https://www.property.co.zw/for-sale/residential-land-stands-chre228426,80000.0,350.0,2000.0,3.0,2.0,Harare,1,c1dac3ddf5_0.webp,34.04255319148936,land
+27,"Elegant 6-Bedroom Home for Sale in Philadelphia, Borrowdale",https://www.property.co.zw/for-sale/houses-leg224713,410000.0,300.0,3000.0,6.0,3.0,Harare,1,af87012961_0.webp,124.24242424242424,house
+27,Ironstone Industrial Park,https://www.property.co.zw/for-sale/commercial-land-ccp168031,190000.0,600.0,2500.0,3.0,2.0,Harare,1,28b053bcb8_0.webp,,land
+27,Residential house for sale,https://www.property.co.zw/for-sale/houses-smy220443,70000.0,150.0,240.0,4.0,2.0,Harare,1,8b02ec6b88_0.webp,179.48717948717947,house
+27,Beatrice Commercial Property,https://www.property.co.zw/for-sale/lodges-hotels-rws215018,375000.0,2000.0,28900.0,3.0,2.0,Harare,1,a4491a305d_0.webp,12.135922330097088,commercial
+27,Double Storey Executive Home,https://www.property.co.zw/for-sale/houses-pgp225033,420000.0,600.0,6311.0,6.0,3.0,Unknown,1,7dbcaa8046_0.webp,60.77268123281725,house
+28,Residential Land for Sale in Greystone Park,https://www.property.co.zw/for-sale/residential-land-stands-gat226755,480000.0,200.0,6725.0,3.0,2.0,Harare,1,ca512ecdef_0.webp,69.31407942238268,land
+28,Granary house for sale,https://www.property.co.zw/for-sale/houses-thre226374,45000.0,200.0,300.0,5.0,3.0,Harare,1,26b4fbf434_0.webp,90.0,house
+28,Borrowdale Hogerty Hill Merrydown Estate,https://www.property.co.zw/for-sale/residential-land-stands-t7216207,55000.0,600.0,2300.0,3.0,2.0,Borrowdale,1,9792a4160e_0.webp,,land
+28,Commercial Property for sale,https://www.property.co.zw/for-sale/commercial-property-smy214924,75000.0,300.0,1500.0,3.0,2.0,Harare,1,0dc2f7e480_0.webp,41.66666666666666,commercial
+28,Nyanga Holiday Home for Sale,https://www.property.co.zw/for-sale/lodges-hotels-xds202473,200000.0,100.0,44900.0,4.0,2.0,Unknown,1,ec0a37b16e_0.webp,4.444444444444445,house
+28,"Head Office or Home, Discover Your Dream Property in Newlands",https://www.property.co.zw/for-sale/houses-sef221226,995000.0,600.0,7783.0,6.0,3.0,Newlands,1,739ed10ad9_0.webp,118.69259215078134,house
+28,Lakeview Park Residential Stands 1250sqm-2000sqm,https://www.property.co.zw/for-sale/residential-land-stands-bnjr220396,43750.0,1250.0,1250.0,3.0,2.0,Harare,1,d82007ee64_0.webp,17.5,land
+28,Aspire Heights Baobab Two Bed Apartments For Sale- Ground Floor Type B,https://www.property.co.zw/for-sale/flats-apartments-oxp218780,75000.0,48.0,500.0,2.0,1.0,Harare,1,19d61ed64a_0.webp,,apartment
+28,Luxurious 6-Bedroom Double-Story House for Sale in Glen Lorne,https://www.property.co.zw/for-sale/houses-glre217156,550000.0,440.0,4685.0,6.0,3.0,Harare,1,4508bee384_0.webp,107.3170731707317,house
+28,"Charming Stone Under Thatch Holiday Home, Nyanga",https://www.property.co.zw/for-sale/houses-pgp226763,245000.0,4315.0,15000.0,2.0,1.0,Highlands,1,638d5c8f94_0.webp,12.684442143411855,house
+28,Exclusive Modern Compound for Sale in Cold Comfort  4-Bed Main House  2-Bed Cottage ,https://www.property.co.zw/for-sale/houses-glre226910,185000.0,700.0,1200.0,4.0,2.0,Harare,1,ba497ba4dd_0.webp,97.36842105263158,house
+29,Price Redution - Great Opportunity For Development,https://www.property.co.zw/for-sale/agricultural-land-farms-apc228078,650000.0,16.0,65526.0,3.0,2.0,Unknown,1,7767ce3b5c_0.webp,9.91730493424064,land
+29,Modern 3-Bedroom Duplex Flat for Sale,https://www.property.co.zw/for-sale/flats-apartments-xds213641,160000.0,100.0,500.0,3.0,2.0,Harare,1,edf6912598_0.webp,,apartment
+29,Stunning Glenlorne Family Home,https://www.property.co.zw/for-sale/houses-t7218210,650000.0,700.0,6330.0,6.0,3.0,Harare,1,d72bee7f10_0.webp,92.46088193456616,house
+29,"Spacious 5-Bed Townhouse in Twinlakes with Electric Gate , Prime area which can be turned into comme",https://www.property.co.zw/for-sale/townhouses-lvre218332,120000.0,250.0,2091.0,5.0,3.0,Unknown,1,6623c8e53e_0.webp,51.26014523707817,house
+29,"Spacious 5-Bedroom Family Home with Borehole in Mabelreign, Maranatha Park ,Harare",https://www.property.co.zw/for-sale/houses-leg220727,145000.0,800.0,800.0,5.0,3.0,Harare,1,e714f0512f_0.webp,90.625,house
+30,Luxury Living with Solar  Borehole.,https://www.property.co.zw/for-sale/houses-leg227532,225000.0,900.0,1300.0,4.0,2.0,Mt Pleasant,1,44218352d3_0.webp,102.27272727272728,house
+30,Build your dream home,https://www.property.co.zw/for-sale/flats-apartments-bdv133055,66000.0,200.0,2200.0,2.0,1.0,Harare,1,5e7261518c_0.webp,27.5,house
+30,Shawasha Hills - $320k,https://www.property.co.zw/for-sale/residential-land-stands-mac202580,320000.0,10000.0,10000.0,4.0,2.0,Harare,1,f0ace22041_0.webp,16.0,land
+30,Investment,https://www.property.co.zw/for-sale/commercial-land-dfp226820,200000.0,600.0,3800.0,3.0,2.0,Waterfalls,1,1a07c5d668_0.webp,,land
+30,Prime Bulawayo CBD Retail Shop with 573m² Land  Borehole for Sale,https://www.property.co.zw/for-sale/shops-pgp205864,1250000.0,600.0,573.0,3.0,2.0,Bulawayo,1,11028b647b_0.webp,,land
+30,Elegant Brand New 5 Bedroom Home,https://www.property.co.zw/for-sale/houses-sef218530,390000.0,300.0,2006.0,5.0,3.0,Harare,1,1cd4c4340a_0.webp,169.12402428447527,house
+31,Aspindale industrial stand,https://www.property.co.zw/for-sale/commercial-land-emp226855,210000.0,600.0,6000.0,3.0,2.0,Harare,1,db0e37e671_0.webp,,land
+31,Residentialstand For Sale,https://www.property.co.zw/for-sale/residential-land-stands-rws204106,20000.0,600.0,300.0,3.0,2.0,Harare,1,24796d3553_0.webp,,land
+31,Bulawayo Belmont Industrial Stand For Sale,https://www.property.co.zw/for-sale/commercial-land-kha194894,360000.0,600.0,7384.0,3.0,2.0,Bulawayo,1,092cbcaf24_0.webp,,land
+31,Mandara stand for sale,https://www.property.co.zw/for-sale/residential-land-stands-thre223391,125000.0,600.0,1800.0,3.0,2.0,Harare,1,a11866ee4c_0.webp,,land
+31,Build your dream home Helensvale Residential Stand for Sale,https://www.property.co.zw/for-sale/residential-land-stands-sef228636,280000.0,350.0,3381.0,4.0,2.0,Harare,1,c32a67c984_0.webp,,house
+31,Incomplete Double Storey House For Sale Mount Pleasant Heights,https://www.property.co.zw/for-sale/houses-rws224626,230000.0,400.0,2089.0,4.0,2.0,Mount Pleasant,1,582308655a_0.webp,92.40658899156288,house
+31,Prime Commercial Industrial Property for Sale in Willowvale,https://www.property.co.zw/for-sale/warehouses-gat206511,550000.0,2300.0,2300.0,4.0,2.0,Harare,1,4fbd31ba62_0.webp,119.56521739130434,house
+32,Gletwin Park,https://www.property.co.zw/for-sale/residential-land-stands-pgp226826,155000.0,180.0,3440.0,3.0,3.0,Marlborough,1,44f3c7eaef_0.webp,42.81767955801105,land
+32,Residential Land For Sale,https://www.property.co.zw/for-sale/residential-land-stands-sbk145040,35000.0,600.0,1000.0,3.0,2.0,Harare,1,24cc8163aa_0.webp,,land
+32,Eastlea House Prime Investment Opportunity $350 000,https://www.property.co.zw/for-sale/houses-fre227932,340000.0,1000.0,1555.0,5.0,2.0,EASTLEA,1,dd46e83a4a_0.webp,133.07240704500978,house
+32,Cluster home for Sale- Waterfalls FBC Complex Phase 1,https://www.property.co.zw/for-sale/townhouses-mac227334,130000.0,120.0,500.0,3.0,2.0,Waterfalls,1,9b681f904f_0.webp,209.67741935483872,house
+32,8.25 Ha Plot In Banket With 3 Boreholes,https://www.property.co.zw/for-sale/agricultural-land-farms-sef213175,570000.0,600.0,82500.0,3.0,2.0,Unknown,1,878f75d930_0.webp,,land
+33,Philadelphia House For Sale,https://www.property.co.zw/for-sale/houses-pgp226797,650000.0,1000.0,4600.0,6.0,5.0,Harare,1,3d94156e06_0.webp,116.07142857142856,house
+33,Family home,https://www.property.co.zw/for-sale/houses-rws227072,80000.0,200.0,450.0,4.0,2.0,Harare,1,b7bc48beb4_0.webp,123.07692307692308,house
+33,Charming Waneka Flat 2-Bedroom Gem with Fitted Kitchen,https://www.property.co.zw/for-sale/flats-apartments-jspp214315,46000.0,100.0,500.0,2.0,1.0,Harare,1,762d268bfa_0.webp,,apartment
+33,"Prime 2,000sqm Residential Stands for Sale in The Grange  Off Drew Road",https://www.property.co.zw/for-sale/residential-land-stands-leg225103,150000.0,600.0,2000.0,3.0,2.0,The Grange,1,a08bc8f36d_0.webp,,land
+33,Borrowdale Carrick Creagh Stand,https://www.property.co.zw/for-sale/residential-land-stands-chre228434,190000.0,600.0,3300.0,3.0,2.0,Borrowdale,1,de69d1096b_0.webp,,land
+34,Old Mt Pleasant stand,https://www.property.co.zw/for-sale/residential-land-stands-tagp225734,150000.0,450.0,2072.0,3.0,2.0,Hatfield,1,2b3eab3c53_0.webp,59.47660586835845,land
+34,5 hectare Agro-Plots in Shamva,https://www.property.co.zw/for-sale/agricultural-land-farms-kipt197200,30000.0,600.0,50000.0,3.0,2.0,Harare,1,84433a0356_0.webp,,land
+34,"Charming 2-Bedroom House with Borehole in Eastlea, Harare",https://www.property.co.zw/for-sale/houses-flb227047,250000.0,180.0,1800.0,2.0,1.0,Eastlea,1,09567339c8_0.webp,126.26262626262626,house
+34,Prime Commercial Avondale Head Office Option,https://www.property.co.zw/for-sale/offices-sef217731,620000.0,600.0,4763.0,1.0,1.0,Avondale,1,8e74b553fe_0.webp,115.60693641618496,commercial
+34,2000sqm  Esteemed Carrick Creagh Estate,https://www.property.co.zw/for-sale/residential-land-stands-plzp227271,105000.0,600.0,2000.0,3.0,2.0,Harare,1,1622fba44d_0.webp,,land
+34,Investors Delight,https://www.property.co.zw/for-sale/houses-rws214491,85000.0,150.0,1500.0,3.0,2.0,Harare,1,06ca3c68aa_0.webp,51.51515151515152,house
+35,Industrial And Warehouse For Sale With Office Space,https://www.property.co.zw/for-sale/warehouses-sef207354,650000.0,2000.0,1884.0,4.0,2.0,Bulawayo,1,70432e80e5_0.webp,,house
+35,"A Choice of Several Industrial Stands in Sunway City, Harare",https://www.property.co.zw/for-sale/commercial-land-sef217975,270000.0,600.0,100000.0,3.0,2.0,Harare,1,64b7ec0aa8_0.webp,,land
+35,8 Bedroom House On 1Acre Along Harare Drive,https://www.property.co.zw/for-sale/houses-pgp221814,850000.0,900.0,4121.0,8.0,8.0,Harare,1,cffc9ea3c3_0.webp,169.2889862577176,house
+35,House for Sale  Eastlea,https://www.property.co.zw/for-sale/offices-apgp224019,269000.0,500.0,1193.0,4.0,2.0,Eastlea,1,ef34f1089d_0.webp,158.88954518606025,house
+36,Superb Opportunity,https://www.property.co.zw/for-sale/residential-land-stands-rws203107,650000.0,600.0,10450.0,3.0,2.0,Harare,1,2b75244ffe_0.webp,,land
+36,Best townhouse value,https://www.property.co.zw/for-sale/townhouses-pgp195525,220000.0,200.0,296.0,4.0,2.0,Mount Pleasant,1,6cbd5f1baa_0.webp,443.5483870967742,house
+36,An Agro-Industrial Property up for sale,https://www.property.co.zw/for-sale/commercial-property-pgp199161,850000.0,600.0,60000.0,3.0,4.0,Unknown,1,ae933d23b5_0.webp,14.026402640264026,commercial
+36,Chicago township house for sale,https://www.property.co.zw/for-sale/houses-chas226289,90000.0,300.0,1000.0,3.0,2.0,Unknown,1,41e2ddf1a9_0.webp,69.23076923076923,house
+36,Agro-Residential Plot for Sale,https://www.property.co.zw/for-sale/agricultural-land-farms-hvn213122,45000.0,600.0,54000.0,3.0,2.0,Unknown,1,2bc59f55fc_0.webp,,land
+36,Belvedere West House Forsale,https://www.property.co.zw/for-sale/houses-rws227308,185000.0,600.0,1050.0,5.0,3.0,Belvedere,1,416f318625_0.webp,112.12121212121212,house
+36,Price Reduced,https://www.property.co.zw/for-sale/residential-land-stands-hvn226612,55000.0,600.0,1000.0,3.0,2.0,Harare,1,f0cf3436d5_0.webp,,land
+37,Elegant 4 Bed2 Bath Mount Pleasant Home,https://www.property.co.zw/for-sale/houses-jspp211525,450000.0,300.0,4000.0,4.0,2.0,Mount Pleasant,1,f551338a94_0.webp,104.65116279069768,house
+37,Expand Your Horizons -Your Canvass For Success,https://www.property.co.zw/for-sale/commercial-property-pgp225274,899000.0,500.0,8585.0,3.0,2.0,Bulawayo,1,edaa875410_0.webp,,commercial
+37,"Stunning 4-Bed House in Zimre Park, Harare",https://www.property.co.zw/for-sale/houses-leg211224,125000.0,712.0,712.0,4.0,2.0,Harare,1,1e577e0c05_0.webp,87.78089887640449,house
+38,Nyabira stand ready to built electricity available and roads,https://www.property.co.zw/for-sale/land-thre219479,12000.0,600.0,300.0,3.0,2.0,Harare,1,7ae6738f65_0.webp,,land
+38,Prime Commercial Property Highlands,https://www.property.co.zw/for-sale/commercial-property-bnjr225813,990000.0,750.0,4063.0,3.0,2.0,Highlands,1,006691eba6_0.webp,205.6929150218159,land
+38,Chitungwiza Industrial Stand for Sale,https://www.property.co.zw/for-sale/commercial-land-mac225122,40000.0,3000.0,3000.0,5.0,3.0,Unknown,1,c357498420_0.webp,6.666666666666667,land
+38,Investment opportunity,https://www.property.co.zw/for-sale/residential-land-stands-thre228757,120000.0,600.0,2300.0,3.0,2.0,Mount Pleasant,1,4f1c17a335_0.webp,,land
+38,Newly built cluster unit for sale,https://www.property.co.zw/for-sale/townhouses-rws219038,380000.0,450.0,613.0,3.0,2.0,Mount Pleasant,1,5b6f373aa2_0.webp,357.47883349012227,house
+38,Prime Commercial Property for Sale,https://www.property.co.zw/for-sale/commercial-property-bnjr222816,1300000.0,300.0,4047.0,3.0,2.0,Milton Park,1,97f553085a_0.webp,299.05682079595124,commercial
+38,Exclusive Residential Developement In Groom Bridge,https://www.property.co.zw/for-sale/townhouses-pgp194628,370000.0,205.0,679.0,3.0,3.0,Harare,1,f5a7b43bd8_0.webp,418.552036199095,house
+39,Modern HomeOffice,https://www.property.co.zw/for-sale/houses-pgp225281,260000.0,230.0,1193.0,3.0,2.0,Eastlea,1,94ef8d6907_0.webp,182.71257905832744,house
+39,Stands for Sale,https://www.property.co.zw/for-sale/residential-land-stands-xds228101,130000.0,600.0,2100.0,3.0,2.0,Harare,1,f4936c0b84_0.webp,,land
+39,Modest 3-Bedroom Home With Potential,https://www.property.co.zw/for-sale/houses-pgp224745,95000.0,140.0,705.0,3.0,2.0,Harare,1,d3654b1484_0.webp,112.42603550295858,house
+39,Style Class and Modern Living,https://www.property.co.zw/for-sale/townhouses-pgp223493,340000.0,580.0,240.0,3.0,2.0,Harare,1,bad15a5a9e_0.webp,414.6341463414634,house
+39,Cold Comfort house for sale,https://www.property.co.zw/for-sale/houses-grm220226,79000.0,300.0,400.0,4.0,2.0,Harare,1,d8c0b39fb9_0.webp,112.85714285714286,house
+39,A Choice Of 13 Bed Town House For Sale In Marlborough,https://www.property.co.zw/for-sale/townhouses-gat227117,45000.0,350.0,1884.0,1.0,1.0,Marlborough,1,e0b47d2fdd_0.webp,,house
+40,House For Sale,https://www.property.co.zw/for-sale/houses-key220357,550000.0,1000.0,4047.0,4.0,3.0,Harare,1,1be0e5febe_0.webp,108.9756290865861,house
+40,Good investment,https://www.property.co.zw/for-sale/houses-hvn228121,55000.0,500.0,609.0,5.0,3.0,Mufakose,1,f8427f5d02_0.webp,49.59422903516682,house
+40,Arlington Stand For Sale,https://www.property.co.zw/for-sale/residential-land-stands-gbr221628,65000.0,600.0,360.0,8.0,3.0,Harare,1,16a4c50fae_0.webp,,land
+40,Newly Listed,https://www.property.co.zw/for-sale/townhouses-rws225965,180000.0,250.0,367.0,3.0,2.0,Harare,1,4d5cd7319c_0.webp,291.7341977309562,house
+40,"Two-Storey Factory for Sale in Belmont, Bulawayo",https://www.property.co.zw/for-sale/warehouses-red211735,690000.0,3600.0,3600.0,4.0,2.0,Bulawayo,1,7a3dd8369f_0.webp,95.83333333333331,house
+40,Philadelphia  Spacious 5-Bedroom Home on 5.4 Acres,https://www.property.co.zw/for-sale/houses-ptd228127,800000.0,350.0,21853.0,5.0,3.0,Harare,1,a9e06e1a48_0.webp,,house
+40,Spacious 6-Bedroom Family Home with Pool and Borehole in Harare,https://www.property.co.zw/for-sale/houses-leg227449,650000.0,3000.0,4900.0,6.0,3.0,Harare,1,83f83e44d2_0.webp,82.27848101265823,house
+41,In a secure complex,https://www.property.co.zw/for-sale/townhouses-pgp224886,220000.0,150.0,500.0,3.0,2.0,Borrowdale,1,f4917cf35c_0.webp,338.46153846153845,house
+41,House for sale,https://www.property.co.zw/for-sale/houses-nal228685,150000.0,600.0,4280.0,4.0,2.0,Hatfield,1,b0d6a52e96_0.webp,30.737704918032787,house
+41,Modern Luxurious Townhouse for Sale in Marlborough,https://www.property.co.zw/for-sale/flats-apartments-sef197906,140000.0,200.0,300.0,3.0,2.0,Marlborough,1,11b7c6518d_0.webp,280.0,house
+41,Versatile Warehouse  Storage in Ruwa with Borehole Access,https://www.property.co.zw/for-sale/warehouses-sef216804,250000.0,680.0,2399.0,4.0,2.0,Unknown,1,4556ccf821_0.webp,81.19519324455992,house
+41,Stand for sale,https://www.property.co.zw/for-sale/residential-land-stands-pnt225201,120000.0,600.0,2000.0,3.0,2.0,Harare,1,60e5b2ef06_0.webp,,land
+42,Build your dream home on this flat 4082sqm land.,https://www.property.co.zw/for-sale/land-knp221625,350000.0,350.0,4082.0,4.0,2.0,Borrowdale,1,aff7d8e6c4_0.webp,,house
+42,Town House for Sale,https://www.property.co.zw/for-sale/flats-apartments-bnjr224367,450000.0,220.0,32220.0,3.0,2.0,Newlands,1,ca277ff64d_0.webp,13.871763255240444,house
+42,Reduced to go,https://www.property.co.zw/for-sale/flats-apartments-hlx212851,155000.0,165.0,500.0,3.0,2.0,Marlborough,1,c204e1dd89_0.webp,,apartment
+42,Simplex townhouses,https://www.property.co.zw/for-sale/townhouses-bbre205890,150000.0,125.0,450.0,3.0,2.0,Bulawayo,1,83878be2c4_0.webp,260.8695652173913,house
+42,"5-Bedroom Architectural thatched double storey for Sale in Hogerty Hill, Harare North",https://www.property.co.zw/for-sale/houses-gat212276,1200000.0,350.0,16187.0,5.0,3.0,Harare,1,f575a15beb_0.webp,,house
+43,Mt Pleasant Luxury House for Sale,https://www.property.co.zw/for-sale/houses-apgp226799,500000.0,900.0,3100.0,3.0,3.0,Marlborough,1,7e6583b35e_0.webp,125.0,house
+43,Smart Luxury Living in Marlborough  Double-Storey Home,https://www.property.co.zw/for-sale/townhouses-leg226083,250000.0,600.0,2000.0,4.0,2.0,Marlborough,1,cfcfb543a1_0.webp,96.15384615384616,house
+43,Kensington apartment for sale - 230kneg,https://www.property.co.zw/for-sale/garden-flats-mac217460,230000.0,150.0,2000.0,3.0,2.0,Harare,1,65080ebcab_0.webp,106.97674418604652,apartment
+43,4-Bedroom Home in Secure Mabvazuva with Modern Amenities,https://www.property.co.zw/for-sale/houses-gat222546,150000.0,43.0,400.0,4.0,2.0,Unknown,1,38963ac044_0.webp,338.6004514672686,house
+43,Prime 1200 m² Residential Land for Sale in Nyabira,https://www.property.co.zw/for-sale/residential-land-stands-jspp225245,25000.0,600.0,1200.0,3.0,2.0,Unknown,1,9d146e5ac3_0.webp,,land
+43,P R E M I E R  I N V E S T M E N T,https://www.property.co.zw/for-sale/houses-hmsl222866,650000.0,500.0,14000.0,5.0,3.0,Harare,1,1ca4e09d7a_0.webp,44.82758620689656,house
+44,Modern Luxury Meets Secure Living in Greendale,https://www.property.co.zw/for-sale/garden-flats-chas225857,265000.0,703.0,500.0,4.0,2.0,Greendale,1,d17c973782_0.webp,,apartment
+44,Family home,https://www.property.co.zw/for-sale/houses-pnt225728,215000.0,4134.0,4134.0,5.0,2.0,Hatfield,1,f7eddae4bc_0.webp,26.003870343492984,house
+44,2 Bedroomed Apartment,https://www.property.co.zw/for-sale/flats-apartments-pgp211768,75000.0,120.0,500.0,2.0,1.0,Marlborough,1,03d3aa0b3f_0.webp,,apartment
+44,Stunning Helensvale Home,https://www.property.co.zw/for-sale/houses-knp225197,1100000.0,600.0,15952.0,4.0,2.0,Harare,1,981de2ba95_0.webp,66.45722571290479,house
+45,3 Bedroom House in Belvedere,https://www.property.co.zw/for-sale/houses-mtx228319,280000.0,1649.0,1649.0,3.0,2.0,Belvedere,1,99c671328d_0.webp,84.89993935718617,house
+45,Stylish 3-Bedroom Townhouse in Hatfield with Borehole Access,https://www.property.co.zw/for-sale/townhouses-sef206561,135000.0,170.0,400.0,3.0,2.0,Hatfield,1,3fcbf657e7_0.webp,236.8421052631579,house
+45,Stand in the esteemed gated Carrick Creagh Community,https://www.property.co.zw/for-sale/residential-land-stands-dtp169564,110000.0,600.0,2000.0,3.0,2.0,Borrowdale,1,fd3a705ad8_0.webp,,land
+45,Prime CommercialIndustrial Land with Highway Frontage in Mutoko,https://www.property.co.zw/for-sale/commercial-land-plzp227697,250000.0,600.0,14000.0,3.0,2.0,Unknown,1,b5328d0769_0.webp,,land
+45,Agro-Residential Plots For Sale In Inyanga,https://www.property.co.zw/for-sale/agricultural-land-farms-ccdh226966,100000.0,600.0,50000.0,3.0,2.0,Unknown,1,a7c2460a4d_0.webp,,land
+46,Solar Powered 3-Bedroom House for Sale in Glaudina with Developers Cession,https://www.property.co.zw/for-sale/houses-gat228565,55000.0,300.0,300.0,3.0,2.0,Harare,1,963e2adc85_0.webp,91.66666666666669,house
+46,Prime 2500 m² Stand in Serene Borrowdale Build Your Dream Home,https://www.property.co.zw/for-sale/land-t20227713,125000.0,350.0,2500.0,4.0,2.0,Borrowdale,1,04de7f277e_0.webp,,house
+46,4 bed family home,https://www.property.co.zw/for-sale/houses-rws224627,260000.0,250.0,2000.0,4.0,2.0,Harare,1,9d1d51eb1b_0.webp,115.55555555555556,house
+46,Spacious Warehouse with Versatile Layout,https://www.property.co.zw/for-sale/warehouses-red224216,310000.0,700.0,1500.0,4.0,2.0,Bulawayo,1,121e93978b_0.webp,140.9090909090909,house
+47,"Stunning House For Sale In Helensvale, Borrowdale",https://www.property.co.zw/for-sale/townhouses-rws203261,700000.0,650.0,4000.0,5.0,3.0,Borrowdale,1,83bc44c12f_0.webp,150.53763440860214,house
+48,Unique Family Home On St Brelades Road,https://www.property.co.zw/for-sale/houses-pgp224989,680000.0,350.0,3949.0,5.0,3.0,Harare,1,adae34c0d9_0.webp,,house
+48,Modern Cluster Home For Sale,https://www.property.co.zw/for-sale/garden-flats-pgp207881,225000.0,150.0,500.0,3.0,2.0,Greendale,1,e0e04e4a03_0.webp,346.15384615384613,house
+48,Residential Stands for Sale in Waterfalls Prospect  Ready to Build,https://www.property.co.zw/for-sale/residential-land-stands-leg221565,55000.0,1001.0,1001.0,3.0,2.0,Waterfalls,1,9b99dd1bed_0.webp,27.47252747252747,land
+48,Busy Industrialcommercial Area For Sale,https://www.property.co.zw/for-sale/commercial-property-rrt223563,750000.0,8094.0,8109.0,3.0,2.0,Harare,1,1c5362cd45_0.webp,46.287724495463806,commercial
+49,Unique 3 bedroomed,https://www.property.co.zw/for-sale/houses-gat227952,850000.0,34.0,4070.0,3.0,2.0,Harare,1,0baf9e3b40_0.webp,207.1150097465887,house
+49,Glenlorne Property For Sale,https://www.property.co.zw/for-sale/residential-land-stands-chre225276,140000.0,3121.0,3121.0,3.0,2.0,Harare,1,3fa984deb7_0.webp,22.42870874719641,land
+49,True Gem In Secure Complex,https://www.property.co.zw/for-sale/townhouses-apc227310,400000.0,43266380.0,266380.0,4.0,2.0,Harare,1,e63ebb75a9_0.webp,0.0091884824210548,house
+49,"Seven Hectares, Prolific Borehole On Jeans Walk Cromlet",https://www.property.co.zw/for-sale/agricultural-land-farms-pgp224078,550000.0,600.0,70000.0,3.0,2.0,Unknown,1,cb465846d2_0.webp,,land
+49,"Beautiful 5-Bedroom Home In Maridale, Norton",https://www.property.co.zw/for-sale/houses-plzp228365,60000.0,130.0,200.0,5.0,3.0,Unknown,1,084696d7bf_0.webp,181.8181818181818,house
+49,"Exclusive Sandton Stand  4,000sqm",https://www.property.co.zw/for-sale/residential-land-stands-leg228600,110000.0,600.0,4000.0,3.0,2.0,Harare,1,688afa8f08_0.webp,,land
+50,4 beds Exclusive TownhousesCluster conviniently located,https://www.property.co.zw/for-sale/townhouses-oas212078,425000.0,278.0,558.0,4.0,3.0,Harare,1,aeab585c71_0.webp,508.3732057416268,house
+50,Cluster Stand for Sale In GREYSTONE PARK,https://www.property.co.zw/for-sale/residential-land-stands-sef217741,60000.0,600.0,300.0,3.0,2.0,GREYSTONE PARK,1,9b794eecaf_0.webp,,land
+50,Prime property with development potential On Show,https://www.property.co.zw/for-sale/houses-pgp228521,1400000.0,600.0,16800.0,4.0,2.0,Harare,1,258ed8f24e_0.webp,80.45977011494253,house
+50,Solid Return-On-Investment,https://www.property.co.zw/for-sale/houses-sef223983,170000.0,300.0,950.0,4.0,2.0,Harare,1,792b8dd920_0.webp,136.0,house
+50,Rockview Ruwa,https://www.property.co.zw/for-sale/land-rpt227479,40000.0,1000.0,1000.0,3.0,2.0,Unknown,1,fdd591a620_0.webp,20.0,land
+51,Finish It To Your Taste,https://www.property.co.zw/for-sale/houses-rws226665,350000.0,800.0,2275.0,6.0,3.0,Harare,1,92fdfbaea9_0.webp,113.82113821138212,house
+51,Finish it to your own taste,https://www.property.co.zw/for-sale/houses-rws227096,125000.0,500.0,1000.0,4.0,2.0,Harare,1,c4af484b92_0.webp,83.33333333333333,house
+51,Hatfield Clusters,https://www.property.co.zw/for-sale/flats-apartments-tmr219978,152500.0,150.0,500.0,3.0,2.0,Hatfield,1,993303e629_0.webp,,apartment
+52,Renovators Delight in The Grange,https://www.property.co.zw/for-sale/houses-rws215803,290000.0,300.0,4060.0,4.0,2.0,The Grange,1,41658ea4e1_0.webp,66.5137614678899,house
+52,New on the market,https://www.property.co.zw/for-sale/land-rws212093,23000.0,600.0,240200.0,3.0,2.0,Harare,1,8b8a9e1457_0.webp,,land
+52,Prime Commercial Land For Sale in Chegutu,https://www.property.co.zw/for-sale/commercial-land-hlx224319,1000000.0,600.0,128000.0,3.0,2.0,Unknown,1,4da64b8802_0.webp,,land
+52,Townhouse for sale 210kneg,https://www.property.co.zw/for-sale/townhouses-mac185285,210000.0,150.0,300.0,3.0,2.0,Harare,1,94fe9ab190_0.webp,466.6666666666667,house
+52,Prime land in a quite surbub,https://www.property.co.zw/for-sale/land-bbre205875,48000.0,600.0,4000.0,3.0,2.0,Bulawayo,1,da73afa9fe_0.webp,,land
+52,Commercial Hub Investment,https://www.property.co.zw/for-sale/shops-pgp205857,750000.0,500.0,1989.0,3.0,2.0,Bulawayo,1,f3d360915d_0.webp,,commercial
+52,Chitungwiza Commercial Property For Sale,https://www.property.co.zw/for-sale/commercial-property-rws227925,125000.0,120.0,130.0,3.0,2.0,Harare,1,d932511e44_0.webp,500.0,commercial
+53,Gletywn Park Police Heights  Stand for Sale,https://www.property.co.zw/for-sale/residential-land-stands-pgp226173,210000.0,6000.0,6000.0,3.0,2.0,Harare,1,03b3bce77b_0.webp,17.5,land
+53,Norton Land,https://www.property.co.zw/for-sale/agricultural-land-farms-pgp223164,140000.0,600.0,22400.0,3.0,2.0,Harare,1,2afc3f2a87_0.webp,,land
+53,3 bedroom cluster in Arlington,https://www.property.co.zw/for-sale/townhouses-mac226611,150000.0,180.0,640.0,3.0,2.0,Harare,1,f7916faf47_0.webp,182.9268292682927,house
+53,Agroplot for Sale in Ruwa,https://www.property.co.zw/for-sale/agricultural-land-farms-rws223373,200000.0,600.0,48000.0,3.0,2.0,Harare,1,8f53d201f2_0.webp,,land
+54,Glen View 2 house for sale,https://www.property.co.zw/for-sale/houses-grm227498,37000.0,90.0,289.0,4.0,2.0,Glen View,1,72a5f684e8_0.webp,97.62532981530345,house
+54,Greystone Park Stand,https://www.property.co.zw/for-sale/residential-land-stands-tagp214888,150000.0,600.0,3000.0,3.0,2.0,Greystone Park,1,dc4e0c0149_0.webp,,land
+55,Apartments for sale,https://www.property.co.zw/for-sale/flats-apartments-bnjr224025,120000.0,84.0,17000.0,3.0,2.0,Harare,1,96765cc148_0.webp,7.024116132053384,apartment
+55,Luxurious 4-Bedroom Home in Scenic Kariba,https://www.property.co.zw/for-sale/houses-gat216899,350000.0,854.0,854.0,4.0,2.0,Unknown,1,6cf3150642_0.webp,204.91803278688525,house
+55,Borrowdale,https://www.property.co.zw/for-sale/commercial-property-lcre225578,1320000.0,511.0,4100.0,3.0,2.0,Borrowdale,1,8378a0ebea_0.webp,286.2719583604424,commercial
+55,Stand for sale,https://www.property.co.zw/for-sale/residential-land-stands-hvn227116,58000.0,1000.0,1000.0,3.0,2.0,Harare,1,573794d926_0.webp,29.0,land
+55,Incomplete 3-Bedroom Cottage for Sale in Sandton,https://www.property.co.zw/for-sale/land-gat223117,65000.0,1322.0,1322.0,3.0,2.0,Harare,1,7661208b20_0.webp,24.583963691376702,house
+56,"Eastlea Spacious Property with Cottage ,1,555sqm",https://www.property.co.zw/for-sale/houses-leg225518,350000.0,500.0,1555.0,5.0,3.0,Eastlea,1,6b28387218_0.webp,170.31630170316302,house
+56,Commercial property for sale,https://www.property.co.zw/for-sale/commercial-property-pnt228044,590000.0,1983.0,1983.0,3.0,2.0,Harare,1,fb4c6bf688_0.webp,148.7644982349975,commercial
+57,Quinnington Stand For Sale,https://www.property.co.zw/for-sale/residential-land-stands-rrt222437,80000.0,208.0,844.0,5.0,3.0,Harare,1,e7d4e9eb44_0.webp,76.04562737642586,land
+57,Spacious 5-Bedroom Home For Sale In New Marlboroug,https://www.property.co.zw/for-sale/houses-gat226357,235000.0,522.0,2222.0,5.0,3.0,Marlborough,1,9f77177b48_0.webp,85.64139941690962,house
+57,"Modern Executive Townhouse US$305k, 3 beds 2 baths.",https://www.property.co.zw/for-sale/townhouses-hee216631,280000.0,125.0,500.0,3.0,2.0,Newlands,1,d18dddcb41_0.webp,448.0,house
+57,Marlborough house,https://www.property.co.zw/for-sale/townhouses-tagp224709,220000.0,4000.0,4000.0,3.0,2.0,Marlborough,1,b644a5dbde_0.webp,27.5,house
+57,"Elegant 5-Bedroom House for Sale in Glen Lorne, Harare North",https://www.property.co.zw/for-sale/houses-gat207200,710000.0,488.0,4263.0,5.0,3.0,Harare,1,4d36530078_0.webp,149.44222268996,house
+57,Borrowdale Helensvale,https://www.property.co.zw/for-sale/houses-tmr194954,380000.0,2800.0,2800.0,3.0,2.0,Harare,1,e14946d54f_0.webp,67.85714285714286,house
+58,New Tafara House for Sale,https://www.property.co.zw/for-sale/houses-fre224896,35000.0,120.0,150.0,3.0,2.0,Harare,1,b657826a22_0.webp,129.62962962962962,house
+58,Unleash Your Dream Home A Hogerty Hill Masterpiece Awaits,https://www.property.co.zw/for-sale/residential-land-stands-sef222605,240000.0,350.0,4348.0,7.0,3.0,Harare,1,a2ef77cc0a_0.webp,,house
+60,Helensvale House,https://www.property.co.zw/for-sale/houses-mac174944,550000.0,500.0,6000.0,4.0,2.0,Harare,1,de1418c9c2_0.webp,84.61538461538461,house
+60,Massive 3 Hectare Warehouse  Factory For Sale in Bindura,https://www.property.co.zw/for-sale/warehouses-aegp192402,590000.0,30.0,30000.0,4.0,2.0,Unknown,1,b5150f52f9_0.webp,19.647019647019647,house
+60,"Prime 21,280 m² Residential Land for Sale in Norton, Zimbabwe",https://www.property.co.zw/for-sale/residential-land-stands-brp223810,72000.0,600.0,21280.0,3.0,2.0,Harare,1,18e917e6af_0.webp,,land
+60,Ideal For Commercial Use,https://www.property.co.zw/for-sale/houses-rws227229,170000.0,150.0,1145.0,3.0,2.0,Harare,1,decb284c8b_0.webp,131.27413127413126,house
+61,Adelaide Park house for Sale perfect for Renovators,https://www.property.co.zw/for-sale/houses-glre227366,55000.0,250.0,300.0,5.0,3.0,Unknown,1,4fa6016879_0.webp,100.0,house
+61,Avondale First-Floor Flat with Garage  Borehole,https://www.property.co.zw/for-sale/flats-apartments-leg228410,75000.0,60.0,500.0,2.0,1.0,Avondale,1,29a9955a71_0.webp,,apartment
+61,Offices in Prime location,https://www.property.co.zw/for-sale/offices-knp216894,1320000.0,850.0,4057.0,3.0,2.0,Borrowdale,1,dad67628b7_0.webp,269.0034644385572,commercial
+62,House for Sale in Glaudina,https://www.property.co.zw/for-sale/houses-chas227826,70000.0,160.0,300.0,5.0,3.0,Harare,1,caf582d630_0.webp,152.17391304347825,house
+62,Upmarket Real Estate,https://www.property.co.zw/for-sale/houses-fpc219664,355000.0,4580.0,300.0,4.0,2.0,Greendale,1,49eefa2e91_0.webp,72.74590163934427,house
+63,Gletwin Stand For Sale,https://www.property.co.zw/for-sale/residential-land-stands-rws226768,100000.0,2000.0,2000.0,3.0,2.0,Harare,1,05e3096e1a_0.webp,25.0,land
+63,Build Your Dream Home Acre Stand in Desirable Brookview,https://www.property.co.zw/for-sale/land-sef213600,170000.0,350.0,4000.0,4.0,2.0,Borrowdale,1,680ce2e5f3_0.webp,,house
+63,Commercial Block for Sale in CBD Harare on Central Avenue,https://www.property.co.zw/for-sale/commercial-property-mtx223974,1150000.0,1300.0,1585.0,3.0,2.0,Harare,1,e796e36db2_0.webp,398.6135181975737,commercial
+63,Partum Mews3 Bedroom New Release Cluster Units.,https://www.property.co.zw/for-sale/townhouses-pgp216576,320000.0,206.0,500.0,3.0,2.0,Mount Pleasant,1,faa44ac597_0.webp,453.257790368272,house
+63,Ready for Investment,https://www.property.co.zw/for-sale/commercial-land-rws227504,250000.0,4600.0,4600.0,3.0,2.0,Harare,1,966a1be4f6_0.webp,27.17391304347826,land
+64,Strategic Corner Stand in the CBD  Warehouse  Workshop,https://www.property.co.zw/for-sale/warehouses-fac224952,420000.0,602.0,1388.0,4.0,2.0,Bulawayo,1,212c93af42_0.webp,211.05527638190955,house
+64,Residential Stand for Sale in Haydon Park,https://www.property.co.zw/for-sale/residential-land-stands-mtx225830,90000.0,600.0,1506.0,3.0,2.0,Harare,1,54594b0353_0.webp,,land
+64,Upmarket Cluster Development in Serene and Secure Neighbourhood.,https://www.property.co.zw/for-sale/flats-apartments-cac215479,280000.0,206.0,700.0,3.0,2.0,Mount Pleasant,1,a3e232b3bf_0.webp,309.0507726269316,apartment
+64,Fully Developed StandPlot,https://www.property.co.zw/for-sale/residential-land-stands-rws222836,240000.0,600.0,16000.0,3.0,2.0,Harare,1,7a0fefd659_0.webp,,land
+64,Chadcom property for sale,https://www.property.co.zw/for-sale/commercial-property-thre226156,115000.0,100.0,2000.0,2.0,1.0,Harare,1,464c5b67fd_0.webp,54.76190476190476,commercial
+65,Conveniently located apartment in Avondale,https://www.property.co.zw/for-sale/flats-apartments-knp213500,200000.0,150.0,15700.0,5.0,5.0,Harare,1,ebd10169cc_0.webp,,apartment
+65,Superb Opportunity,https://www.property.co.zw/for-sale/houses-rws223492,520000.0,300.0,4050.0,4.0,2.0,Mount Pleasant,1,a04544f20a_0.webp,119.54022988505749,house
+65,Neat as a pin,https://www.property.co.zw/for-sale/houses-rws219612,105000.0,220.0,400.0,4.0,2.0,Waterfalls,1,9855e725c7_0.webp,169.3548387096774,house
+77,"Stunning 3-Bedroom Family Home in Avondale, Harare",https://www.property.co.zw/for-sale/townhouses-gat224845,240000.0,350.0,1884.0,3.0,2.0,Avondale,1,5499d90554_0.webp,,house
+78,"Split-Level Property for Sale in Hogerty Hill, Borrowdale",https://www.property.co.zw/for-sale/houses-apgp227990,120000.0,350.0,1040.0,4.0,2.0,Borrowdale,1,d927541f1f_0.webp,86.33093525179856,house
+81,Neat 2-Bedroom Apartment for Sale  Eastview Gardens With Deeds,https://www.property.co.zw/for-sale/flats-apartments-leg225237,60000.0,5000.0,200.0,2.0,1.0,Eastlea,1,bc715326ee_0.webp,11.538461538461538,apartment
+85,"Nice home perfect investment 3-Bedroom Townhouse in Greendale North, Harare",https://www.property.co.zw/for-sale/townhouses-t2214571,215000.0,285.0,500.0,3.0,2.0,Greendale,1,32c537b587_0.webp,273.8853503184713,house
+86,Industrial Stand Close To Railway Line And Road.,https://www.property.co.zw/for-sale/warehouses-eea228728,150000.0,100.0,4000.0,6.0,1.0,Borrowdale,1,14a5683161_0.webp,36.58536585365854,house
+86,Plumtree Stands For Sale,https://www.property.co.zw/for-sale/residential-land-stands-p11200769,15000.0,600.0,600.0,3.0,2.0,Unknown,1,64b02dd9e6_0.webp,,land
+88,Neat cluster homes for sale,https://www.property.co.zw/for-sale/garden-flats-pgp210276,95000.0,100.0,400.0,3.0,2.0,Waterfalls,1,b9fef1ac86_0.webp,190.0,house
+90,3 Bed Home In Eastlea  Close to Robert Mugabe Road ,https://www.property.co.zw/for-sale/houses-hlx215444,260000.0,190.0,1616.0,3.0,2.0,Eastlea,1,d6e93c89e0_0.webp,143.96456256921374,house
+91,"Luxury Townhouse in Helensvale, Harare - For Sale",https://www.property.co.zw/for-sale/flats-apartments-apgp228376,350000.0,300.0,4000.0,3.0,2.0,Harare,1,23960482bb_0.webp,81.3953488372093,house
+93,Great investment,https://www.property.co.zw/for-sale/residential-land-stands-dfp228512,65000.0,600.0,1125.0,3.0,2.0,Harare,1,9fc2215fb2_0.webp,,land
+96,Prime Industrial Land Opportunity For Sale In Arlington,https://www.property.co.zw/for-sale/commercial-land-gat226022,260000.0,600.0,2355.0,3.0,2.0,Harare,1,2306aafcdc_0.webp,,land
+96,Beautiful Property on an Acre,https://www.property.co.zw/for-sale/houses-knp228022,800000.0,300.0,4047.0,6.0,3.0,Harare,1,1ee3ca7c5a_0.webp,184.0349666436623,house
+98,"5-Bedroom Home with Borehole in Crowhill Views, Harare North",https://www.property.co.zw/for-sale/houses-hvn188217,130000.0,500.0,1000.0,5.0,4.0,Harare,1,ba5ce4dab5_0.webp,86.66666666666667,house
+98,Bloomingdale 3 Bedrooms,https://www.property.co.zw/for-sale/houses-cac226934,88000.0,300.0,460.0,3.0,2.0,Harare,1,a148d35294_0.webp,115.78947368421052,house
+100,Ruwa,https://www.property.co.zw/for-sale/houses-lcre227523,75000.0,105.0,260.0,3.0,2.0,Unknown,1,e0c4658123_0.webp,205.4794520547945,house
